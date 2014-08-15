@@ -1,0 +1,4 @@
+* Kuking [python] <2014-08-14 Tue>
+  Simple site downloader and HTML tags cleaner.
+  Now adding stemmin capabilities.
+  In future I think I can do some ML on base fo it.
